@@ -10,3 +10,7 @@ LintCode 615,616, Course Schedule (BFS, Topological Sort)
 
 LintCode 630, Knight Jump II (BFS)
 
+Jan 11, 2022
+
+LintCode 95 重做 ==》 分治法
+

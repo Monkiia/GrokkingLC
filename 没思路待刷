@@ -5,3 +5,8 @@ https://www.lintcode.com/problem/65/description
 
 两个排序数组中位数，要求log 时间复杂度
 肯定是要用二分法+ divideandconquer 但是没有具体思路
+
+
+Feb 11 2022
+
+LC 11 Contain Most Water - Two Pointer, need to rethink!

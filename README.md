@@ -20,3 +20,7 @@ Jan 12, 2022
 
 彭博 LC430 写法冗长 重写
 
+Feb 11
+
+Done LC 127 Word Ladder (I use BFS) can optimize with bi-directional BFS ---> do it in future
+

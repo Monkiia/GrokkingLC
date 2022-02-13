@@ -26,3 +26,6 @@ Done LC 127 Word Ladder (I use BFS) can optimize with bi-directional BFS ---> do
 
 Done LC 14 , Done LC 11(Redo)
 
+Feb 12
+
+Done LC 19, 17, 78

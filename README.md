@@ -44,4 +44,4 @@ Feb 19
 Done LC 22,24,26
 
 Feb 21 
-Done LC 31 33
+Done LC 31 33 34

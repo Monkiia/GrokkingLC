@@ -47,4 +47,5 @@ Feb 21
 Done LC 31 33 34
 
 Feb 22
-Done LC 133,36
+Done LC 133,36,39
+39 用了 Backtracking  但是 复杂度一般般， 应该可以DP 写， 明天用dp 写一遍

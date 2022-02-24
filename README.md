@@ -51,4 +51,4 @@ Done LC 133,36,39
 39 用了 Backtracking  但是 复杂度一般般， 应该可以DP 写， 明天用dp 写一遍
 
 Feb 23
-Done LC 680, 
+Done LC 680, LC 40

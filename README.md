@@ -57,4 +57,4 @@ LC43 happygirlzt good explanation, need redo
 Feb 24
 Done LC 1762, 1570, 148
 
-LC 148 需要重写 ==》 
+LC 148 需要重写 ==> LinkList Version of MergeSort

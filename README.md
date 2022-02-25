@@ -55,7 +55,7 @@ Done LC 680, LC 40, LC 43
 LC43 happygirlzt good explanation, need redo
 
 Feb 24
-Done LC 1762, 1570, 148,938, 1650, LC 560
+Done LC 1762, 1570, 148,938, 1650, LC 560, LC 921
 
 LC 148 需要重写 ==> LinkList Version of MergeSort
 

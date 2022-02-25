@@ -55,8 +55,10 @@ Done LC 680, LC 40, LC 43
 LC43 happygirlzt good explanation, need redo
 
 Feb 24
-Done LC 1762, 1570, 148,938, 1650
+Done LC 1762, 1570, 148,938, 1650, LC 560
 
 LC 148 需要重写 ==> LinkList Version of MergeSort
 
 LC 1650 空间复杂度不行 需要重做 理解O1 复杂度
+
+LC 560 很有意思的题目 看hint 写了一个剧牛的， 不看hint 复杂度拉跨，思路打开 preflix sum

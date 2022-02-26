@@ -68,3 +68,5 @@ Feb 25
 LC 408, LC 339, LC 426
 
 LC 973,347,215 三兄弟， 都是Quickselect！！ 215 最简单，主要是要默写顺利，像背二分法一样熟练背诵quickselect
+
+LC 227 Easy for stack, hard for O(1) space... should do it once again.
